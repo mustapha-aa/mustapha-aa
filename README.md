@@ -7,10 +7,10 @@
 - 🚀 Goal: Craft seamless user experiences with clean code  
 
 ## 🛠️ Skills
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React, Vue.js (update with what you use)  
-- **Tools:** Git, GitHub, VS Code, TailwindCSS  
-- **Design:** Figma, Adobe XD  
+- **Languages:** HTML, CSS <!--, JavaScript -->
+<!-- **Frameworks & Libraries:** React, Vue.js (update with what you use)  -->
+- **Tools:** Git, GitHub, VS Code <!--, TailwindCSS  -->
+<!-- **Design:** Figma, Adobe XD  -->
 
 ## 📂 Featured Projects
 - 🎯 [Project 1](link_to_project) — Short description of the project  
@@ -20,7 +20,7 @@
 ## 📫 Connect with Me
 - 💼 [LinkedIn](your_linkedin_profile)  
 - 🐦 [Twitter](your_twitter_profile)  
-- 📧 Email: yourmail@example.com  
+- 📧 Email: mr.mustapha42@gmail.com  
 
 ---
 ✨ *"Clean code = Clean UI = Great User Experience"* ✨
