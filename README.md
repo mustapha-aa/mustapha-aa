@@ -56,9 +56,9 @@ const mustapha = {
 - 👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=mustapha-aa&label=Views&color=blue&style=flat)  
 - 🧑‍💻 **Lines of Code Written:** *still growing day by day* ✨
 
-### ⚡ GitHub Stats Cards
+<!-- ### ⚡ GitHub Stats Cards
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-aa&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aa&layout=compact&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aa&layout=compact&theme=tokyonight) -->
 
 **🐱 My GitHub Data** 
 
@@ -102,12 +102,12 @@ Windows                      21 hrs 41 mins      ██████████�
 ```
 
 
-<p align="center">
+<!-- <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mustapha-aa&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aa&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=mustapha-aa&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-</p>
+</p> -->
 
 
 
@@ -117,6 +117,6 @@ Windows                      21 hrs 41 mins      ██████████�
  Last Updated on 19/08/2025 00:36:58 UTC
 <!--END_SECTION:waka-->
 
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/mustapha-aa/waka-readme-stats)**
 
 NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
