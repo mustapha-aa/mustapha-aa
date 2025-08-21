@@ -27,39 +27,35 @@ npx anmol
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+const mostafa = {
+  pronouns: "He" | "Him",
+  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  askMeAbout: ["front-end dev", "UI/UX", "web design", "responsive design"],
+  
+  technologies: {
+    frontEnd: {
+      js: ["React", "Next.js"],
+      css: ["Tailwind", "Bootstrap", "Sass"],
+      uiLibraries: ["Material UI", "Chakra UI"],
     },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
+    backEnd: {
+      js: ["Node", "Express"], // optional if you know backend basics
     },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
+    design: {
+      tools: ["Figma", "Adobe XD"],
+    },
+    devOps: {
+      tools: ["Git", "GitHub", "CI/CD"],
+    },
+  },
+
+  architecture: {
+    frontEnd: ["SPA", "SSR"],
+    backEnd: ["REST APIs"],
+  },
+
+  currentFocus: "Improving my React and Next.js skills 🚀",
+  funFact: "I design better UIs when listening to lo-fi beats 🎧"
 };
 ```
 
