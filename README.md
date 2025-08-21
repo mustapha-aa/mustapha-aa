@@ -1,17 +1,97 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Mustapha <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h1 align="center">Hi, I'm Ahmed Adel  👋</h1>
+<h3 align="center">Flutter Developer 🧠 | Content Creator 🎥 | Founder of <a href="https://learrnsimply.com" target="_blank">Learn Simply</a> 📚</h3>
+
+<p align="center">
+  <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Learn_Simply-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://facebook.com/ahmed.learnsimply"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://learrnsimply.com"><img src="https://img.shields.io/badge/Website-learrnsimply.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
+
+## 🚀 About Me
+
+```dart
+class AhmedAdel {
+  String role = "Flutter Developer & Instructor";
+  String language = "Arabic";
+  String brand = "Learn Simply | اتعلم ببساطة";
+  List<String> skills = [
+    "Flutter UI/UX",
+    "Dart Animations",
+    "Python, Java, C++",
+    "GitHub & Copilot",
+    "Arabic Content Creation"
+    "Simplify Code"
+  ];
+}
+```
+## 🔥 Highlights
+
+- 🔥 Built a YouTube channel with **240K+ subscribers**
+- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
+- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
+- 🧩 Building **reusable Flutter components**, animations & UI kits
+- 📦 Making **clean code fun** to learn for beginners
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🎬 My YouTube Focus
+
+- ✅ **Flutter basics to advanced** (in Arabic)
+- ✅ **Problem-solving** with C++ & Java
+- ✅ **Real app UIs** with animations
+- ✅ Tips for **VS Code, Git**, and productivity
+- ✅ Free projects and walkthroughs
+
+▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
+
+---
+
+
+
+## ⚡️ Motto
+
+> **“Let’s simplify learning, one line of code at a time.”**
+
+
+
+
+<!-- <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Mustapha <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></p> -->
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol) -->
 <!-- [![Linkedin: Mustapha](https://img.shields.io/badge/-Mustapha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/) -->
-![GitHub followers](https://img.shields.io/github/followers/mustapha-aa?label=Follow&style=social)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.mustapha42@gmail.com)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/mustapha-aa?label=Follow&style=social)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.mustapha42@gmail.com) -->
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/) -->
 <!--![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)-->
 
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+<!-- <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
 
 ### 📫 Like to meet me?
 
@@ -51,7 +131,7 @@ const mustapha = {
 
 ---
 <!--START_SECTION:waka-->
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 - ⏳ **Code Time:** 0 hrs (start counting now 🚀)  
 - 👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=mustapha-aa&label=Views&color=blue&style=flat)  
@@ -61,7 +141,7 @@ const mustapha = {
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-aa&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aa&layout=compact&theme=tokyonight) -->
 
-**🐱 My GitHub Data** 
+<!--**🐱 My GitHub Data** 
 
 > 📦 0 kB Used in GitHub's Storage 
  > 
