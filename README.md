@@ -60,6 +60,11 @@ const mustapha = {
 - 👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=mustapha-aa&label=Views&color=blue&style=flat)  
 - 🧑‍💻 **Lines of Code Written:** *still growing day by day* ✨
 
+### ⚡ GitHub Stats Cards
+![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-aa&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aa&layout=compact&theme=tokyonight) 
+
 **🐱 My GitHub Data** 
 
 > 📦 357.6 kB Used in GitHub's Storage 
