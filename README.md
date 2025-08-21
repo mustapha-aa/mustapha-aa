@@ -30,7 +30,7 @@ const mustapha = {
       css: ["Tailwind"],
     },
     backEnd: {
-      js: ["Node", "Express"], // optional if you know backend basics
+      js: ["Node", "Express"],
     },
     design: {
       tools: ["Figma", "Adobe XD"],
@@ -54,11 +54,11 @@ const mustapha = {
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C739%20hrs%201%20min-blue)
+### 📊 GitHub Stats
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-746-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.9%20million%20lines%20of%20code-blue)
+- ⏳ **Code Time:** 0 hrs (start counting now 🚀)  
+- 👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=mustapha-aa&label=Views&color=blue&style=flat)  
+- 🧑‍💻 **Lines of Code Written:** *still growing day by day* ✨
 
 **🐱 My GitHub Data** 
 
