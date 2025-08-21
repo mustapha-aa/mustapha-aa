@@ -109,13 +109,9 @@ Windows                      21 hrs 41 mins      ██████████�
   <br>
 </p>
 
-<p align="center">
-  <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=mustapha-aa&repo=ytdx">
-  <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=mustapha-aa&repo=pixel-weather">
-</p>
 
 
-<!--
+
 **Aveek-Saha/aveek-saha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -128,7 +124,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
