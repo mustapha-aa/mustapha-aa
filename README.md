@@ -16,27 +16,18 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const mostafa = {
+const mustapha = {
   pronouns: "He" | "Him",
-  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  askMeAbout: ["front-end dev", "UI/UX", "web design", "responsive design"],
+  code: ["HTML", "CSS", "JavaScript"],
+  askMeAbout: ["front-end dev", "web design", "responsive design"],
   
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"],
-      css: ["Tailwind", "Bootstrap", "Sass"],
-      uiLibraries: ["Material UI", "Chakra UI"],
+      css: ["Tailwind"],
     },
     backEnd: {
       js: ["Node", "Express"], // optional if you know backend basics
@@ -45,7 +36,7 @@ const mostafa = {
       tools: ["Figma", "Adobe XD"],
     },
     devOps: {
-      tools: ["Git", "GitHub", "CI/CD"],
+      tools: ["Git", "GitHub",],
     },
   },
 
