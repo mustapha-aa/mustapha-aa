@@ -62,20 +62,15 @@ const mustapha = {
 
 ### ⚡ GitHub Stats Cards
 ![Mostafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustapha-aa&show_icons=true&theme=tokyonight)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustapha-aa&layout=compact&theme=tokyonight) 
 
 **🐱 My GitHub Data** 
 
-> 📦 357.6 kB Used in GitHub's Storage 
+> 📦 0 kB Used in GitHub's Storage 
  > 
-> 🏆 605 Contributions in the Year 2025
+> 📜 0 Public Repositories 
  > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 32 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
