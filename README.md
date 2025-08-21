@@ -45,8 +45,8 @@ class Mustapha {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustapha-aa&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustapha-aa&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
@@ -59,7 +59,6 @@ class Mustapha {
 - ✅ Tips for **VS Code, Git**, and productivity
 - ✅ Free projects and walkthroughs
 
-▶️ Check it out: [**YouTube - Learn Simply**](https://www.youtube.com/@Learn_Simply/videos/?sub_confirmation=1)
 
 ---
 
