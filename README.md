@@ -25,11 +25,6 @@ class Mustapha {
 }
 ```
 ## 🔥 Highlights
-
-- 🔥 Built a YouTube channel with **240K+ subscribers**
-- 👨‍🏫 Teaching programming in **simple Arabic** — clear, visual, and practical
-- 📚 Founder of [learrnsimply.com](https://learrnsimply.com) – an Arabic-first coding school
-- 🧩 Building **reusable Flutter components**, animations & UI kits
 - 📦 Making **clean code fun** to learn for beginners
 
 ---
@@ -37,7 +32,7 @@ class Mustapha {
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,vscode,github,figma,git,bash" />
+  <img src="https://skillicons.dev/icons?i=html,js,c,css,cpp,java,python,vscode,github,git,bash" />
 </p>
 
 ---
