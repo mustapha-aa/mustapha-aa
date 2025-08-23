@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Mustapha  👋</h1>
-<h3 align="center">Front-end Developer 🧠</h3>
+<h1 align="center">Hi, I'm Mustapha  👋 </h1>
+<h3 align="center">
+  Front-end Developer 
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+</h3>
 
 <p align="center">
   <!-- <a href="https://instagram.com/ahmed.aaddel"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -8,6 +12,9 @@
 </p>
 
 ---
+![GitHub followers](https://img.shields.io/github/followers/mustapha-aa?label=Follow&style=social)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.mustapha42@gmail.com)
+
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
@@ -20,7 +27,8 @@ class Mustapha {
   List<String> skills = [
     "HTML, CSS, Js, C, MySQL, C++",
     "GitHub",
-    "Simplify Code"
+    "Simplify Code",
+    "responsive design"
   ];
 }
 ```
@@ -44,24 +52,11 @@ class Mustapha {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustapha-aa&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
----
-
-## 🎬 My YouTube Focus
-
-- ✅ **Flutter basics to advanced** (in Arabic)
-- ✅ **Problem-solving** with C++ & Java
-- ✅ **Real app UIs** with animations
-- ✅ Tips for **VS Code, Git**, and productivity
-- ✅ Free projects and walkthroughs
+###
+ 
+- 👀 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=mustapha-aa&label=Views&color=blue&style=flat)  
 
 
----
-
-
-
-## ⚡️ Motto
-
-> **“Let’s simplify learning, one line of code at a time.”**
 
 
 
