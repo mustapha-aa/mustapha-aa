@@ -15,7 +15,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/mustapha-aa?label=Follow&style=social)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.mustapha42@gmail.com)
 <a href="https://facebook.com/mstafa.aada.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://www.instagram.com/ms.ta.fa01"><img src="https://img.shields.io/badge/@ahmed.aaddel-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/ms.ta.fa01"><img src="https://img.shields.io/badge/@ms.ta.fa01-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <!-- <a href="mailto:mr.mustapha42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 
 <!--  <a href="https://linkedin.com/in/ahmed-adel-11bba6177"><img src="https://img.shields.io/badge/Ahmed%20Adel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
