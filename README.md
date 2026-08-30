@@ -32,8 +32,8 @@ class Mustapha {
   String role = "Front-end Developer";
   String language = "Arabic";
   List<String> skills = [
-    "HTML, CSS, Js, C, MySQL, C++",
-    "GitHub",
+    "HTML, CSS, Js, C, MySQL, C++, Python, Java",
+    "Git, GitHub",
     "Simplify Code",
     "responsive design"
   ];
