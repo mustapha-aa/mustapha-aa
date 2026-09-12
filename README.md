@@ -9,15 +9,4 @@
 </h3>
 
 
-
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustapha-aa&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-</p>
-
-
 <!--END_SECTION:waka-->
